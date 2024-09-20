@@ -30,7 +30,7 @@ const CartItem = ({ onContinueShopping }) => {
   // Handle checkout button click
   const handleCheckoutShopping = (e) => {
     //e.preventDefault();
-    alert('Functionality to be added for future reference');
+    alert('Coming Soon: Functionality to be added for future reference');
   };
 
   // Handle incrementing quantity
